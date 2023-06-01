@@ -50,6 +50,7 @@ body {
 	place-content: center;
 	background-color:hsl(212, 45%, 89%);
 	font-family: 'Outfit', Arial, "Helvetica Neue", Helvetica, sans-serif;
+	padding: 2rem;
 }
 
 .card {
